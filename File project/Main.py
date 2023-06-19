@@ -1,4 +1,4 @@
-with open("File project/file.txt") as file:
+with open("file.txt") as file:
     contents = file.read()
     print(contents)
 
